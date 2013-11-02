@@ -25,11 +25,11 @@
 		"node": ">= 0.8.0"
 	},
 	"dependencies": {
-		"node-array": ">= 0.0.1",
+		"async": ">= 0.2.9",
 		"jsdx-disk": ">= 0.0.1"
 	},
 	"bin": {
-		"jusession": "./bin/stemd"
+		"stem": "./bin/stem"
 	},
 	"main": "./lib/stemd.js"
 }
