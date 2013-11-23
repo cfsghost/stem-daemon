@@ -25,6 +25,7 @@
 	"dependencies": {
 		"async": ">= 0.2.9",
 		"jsdx-disk": ">= 0.0.1"
+		"jsdx-connman": ">= 0.2.0"
 	},
 	"bin": {
 		"stem": "./bin/stemd"
